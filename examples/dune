@@ -1,0 +1,14 @@
+(executable
+  (public_name -)
+  (name example_1)
+  (package dune-example))
+
+(executable
+  (public_name -)
+  (name example_2)
+  (package dune-example))
+
+; (executables
+;   (public_names - -)
+;   (names example_1 example_2)
+;   (package dune-example))
